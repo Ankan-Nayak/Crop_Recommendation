@@ -4,7 +4,7 @@
 
 ## Link for the Application Webpage
 
-https://share.streamlit.io/simeetnayan81/crop-recommendation/main/app.py
+https://ankan-nayak-crop-recommendation-app-qse6qv.streamlit.app/
 
 ---
 
